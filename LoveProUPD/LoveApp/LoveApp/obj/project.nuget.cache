@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fdfVqyzF7CLLxhvXvn7ADBX+pHIhABr/vnyJZ4z6hy4GIHRLnhpdvshZvRfpmRdRBdjUDNUzYEgD/lZ5JZPxQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\LoveProUPD\\LoveApp\\LoveApp\\LoveApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
